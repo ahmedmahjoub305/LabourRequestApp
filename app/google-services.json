@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993858653120",
+    "project_id": "customerinterface-f6a30",
+    "storage_bucket": "customerinterface-f6a30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993858653120:android:36b595fd3f2bd037495625",
+        "android_client_info": {
+          "package_name": "mmu.edu.customerinterface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993858653120-up5ld48esj33a5h0hahk1g72fdlvabct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOKaw1lhGrHGUid4JxZ4dbdIEAV9_hLOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993858653120-up5ld48esj33a5h0hahk1g72fdlvabct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
